@@ -1,1 +1,1 @@
-Crear en el detailview información de campos disponibles en módulos relacionados
+mostrar en el detailview información de campos disponibles en módulos relacionados
